@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ladies Dress Boutique</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Ladies Dress Boutique</h1>
+        <p>Elegant • Stylish • Comfortable</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#collection">Collection</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <h2>Discover Your Perfect Look</h2>
+        <p>Beautiful dresses for every occasion</p>
+        <button>Shop Now</button>
+    </section>
+
+    <!-- Collection -->
+    <section id="collection" class="collection">
+        <h2>Our Collection</h2>
+
+        <div class="products">
+            <div class="product">
+                <img src="https://via.placeholder.com/250x300" alt="Dress 1">
+                <h3>Floral Summer Dress</h3>
+                <p>$49.99</p>
+            </div>
+
+            <div class="product">
+                <img src="https://via.placeholder.com/250x300" alt="Dress 2">
+                <h3>Evening Gown</h3>
+                <p>$89.99</p>
+            </div>
+
+            <div class="product">
+                <img src="https://via.placeholder.com/250x300" alt="Dress 3">
+                <h3>Casual Wear</h3>
+                <p>$39.99</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>
+            We specialize in high-quality ladies dresses designed with elegance,
+            comfort, and modern fashion trends in mind.
+        </p>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@ladiesdress.com</p>
+        <p>Phone: +1 234 567 890</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Ladies Dress Boutique. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
